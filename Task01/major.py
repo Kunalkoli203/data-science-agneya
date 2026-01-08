@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
-
+#all the required data 
 data = {
     "Marks": [35, 45, 60, 70, 80, 90, 30, 55],
     "Attendance": [60, 65, 75, 80, 85, 90, 50, 70],
