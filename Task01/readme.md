@@ -1,1 +1,1 @@
-this is a repo where i put a project of my first internship
+task 1 of my internship at agneyra 
