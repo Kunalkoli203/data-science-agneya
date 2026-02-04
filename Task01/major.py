@@ -1,6 +1,6 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
+from sklearn.linear_model import LogisticRegression  #libraries used for it 
 from sklearn.metrics import accuracy_score
 #all the required data 
 data = {
